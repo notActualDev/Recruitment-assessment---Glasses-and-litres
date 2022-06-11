@@ -4,7 +4,7 @@ namespace Assessment___Glasses_and_Litres
 {
     class TestsOfMethod_solution
     {
-        // Tested - but I'm not sure if I prepared enough tests (tests that were prepared were passed)
+        // Tested - but I'm not sure if I prepared enough tests (tests that I've prepared were passed)
 
         Solution solution = new Solution();
 
